@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey, I'm ceruleanSun
 
-<!--
-**ceruleanSun/ceruleanSun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer building AI-powered tools and automation systems.
 
-Here are some ideas to get you started:
+Currently focused on AI engineering — RAG pipelines, LLM integrations, and developer tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+- Building a RAG-powered documentation bot (Python, LangChain, ChromaDB)
+- Contributing to open source
+- Studying for AWS/GCP cloud certification
+
+### Tech Stack
+`Python` `TypeScript` `FastAPI` `React` `LangChain` `Docker` `Git` `GitHub Actions`
+
+### Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ekhoroshun)
